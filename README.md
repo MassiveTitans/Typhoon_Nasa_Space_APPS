@@ -9,7 +9,7 @@
 - - - Yaxshiliqov Javlon
 - - - Jabborov Diyorbek
 
-Data Source
+# Data Source
 - The historical wildfire data are from the MOD14A1 V6 data set [1].
 - Topography data are from the Shuttle Radar Topography Mission (SRTM) [2].
 - Weather data are from the Gridded Surface Meteorological data set (GRIDMET) [3].
@@ -18,7 +18,7 @@ Data Source
 - Population density data are from the Gridded Population of World Version 4 (GPWv4) data set [6].
 
 
-#Training Deep Learning model
+# Training Deep Learning model
 
 Amongst several CNN model architectures tested, we selected the ResUNet as it is showed the best performance during preliminary experiments. The ResUNet performance is compared to the baseline (fire persistence).
 
