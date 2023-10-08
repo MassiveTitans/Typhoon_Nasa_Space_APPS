@@ -18,7 +18,7 @@ Data Source
 - Population density data are from the Gridded Population of World Version 4 (GPWv4) data set [6].
 
 
-# Deep Learning model training
+#Training Deep Learning model
 
 Amongst several CNN model architectures tested, we selected the ResUNet as it is showed the best performance during preliminary experiments. The ResUNet performance is compared to the baseline (fire persistence).
 
