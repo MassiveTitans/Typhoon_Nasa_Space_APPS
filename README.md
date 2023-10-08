@@ -8,6 +8,14 @@
 - - Members:
 - - - Yaxshiliqov Javlon
 - - - Jabborov Diyorbek
+    
+# Preject info
+
+Predicting wildfire spread is critical  for land management and  disaster preparedness. We applied  our knowledge of wildfires, satellite 
+imagery and machine learning to 
+demonstrate a globally applicable fire 
+spread prediction system using open data.
+
 
 # Data Source
 - The historical wildfire data are from the MOD14A1 V6 data set [1].
