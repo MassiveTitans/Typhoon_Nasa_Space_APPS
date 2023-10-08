@@ -36,6 +36,12 @@ ResUNet	0.30	0.44	0.98	0.97
 
 The model achieves better precision and recall for the fire class than the baseline. The recall improves more significantly, which works in the favour of an application where the cost of error is higher. Note that the baseline metrics differ from the random forest values for 2 reasons: (1) in the random forest model the outermost pixels are not used and (2) the test dataset may have comprised slightly different images than those used on the random forest as a discrepancy was discovered very late in the day about the version of datasets being used by the two team members.
 
+
+![5](https://github.com/MassiveTitans/Typhoon_Nasa_Space_APPS/assets/97624379/86ead9d8-731e-4683-929d-6fa8129fe02c)
+
+
+
+
 https://github.com/MassiveTitans/Typhoon_Nasa_Space_APPS/assets/97624379/f89d1e3f-e96d-47c0-b1b9-5249b9094b0f
 
 
