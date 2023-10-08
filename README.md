@@ -4,10 +4,10 @@
 
 
 ## NASA Space Apps Challenge 2023 in Tashkent
-- #Team: Typhoon
--- Members:
---- Yaxshiliqov Javlon
---- Jabborov Diyorbek
+- Team: Typhoon
+- - Members:
+- - - Yaxshiliqov Javlon
+- - - Jabborov Diyorbek
 
 Data Source
 - The historical wildfire data are from the MOD14A1 V6 data set [1].
