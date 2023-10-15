@@ -16,6 +16,8 @@ imagery and machine learning to
 demonstrate a globally applicable fire 
 spread prediction system using open data.
 
+For this challenge, satellite imagery and machine learning to demonstrate a fire spread prediction system. Satellites offer wide area coverage in near real time, and can access even the most remote locations. Accurate prediction of fire spread could improve disaster response, for example to identify towns or properties in the greatest immediate risk. We used data from the MODIS and VIIRS satellite sensors, which provide long-term observational records in multiple spectral bands, as well as elevation and land cover data to make predictions with both traditional machine learning and deep learning models. The models predicted the next day's fire pattern with higher precision and recall than the baseline model of fire persistence. The use of the predictions in an application which could be used by fire management teams was also demonstrated. In future we hope that Satellite Vu’s high-resolution thermal imagery could be input to models such as these to provide even more spatially accurate fire spread predictions to help them pinpoint specific populations and areas at risk. We would also like to highlight that this work is done as a team challenge in a two-week sprint.
+
 
 # Data Source
 - The historical wildfire data are from the MOD14A1 V6 data set [1].
