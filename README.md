@@ -3,7 +3,7 @@
 
 
 
-## NASA Space Apps Challenge 2023 in Tashkent
+##  HACKNOVATION-2024
 - Team: Typhoon
 - - Members:
 - - - Yaxshiliqov Javlon
