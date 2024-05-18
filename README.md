@@ -42,8 +42,3 @@ The model achieves better precision and recall for the fire class than the basel
 ![5](https://github.com/MassiveTitans/Typhoon_Nasa_Space_APPS/assets/97624379/86ead9d8-731e-4683-929d-6fa8129fe02c)
 
 
-
-
-https://github.com/MassiveTitans/Typhoon_Nasa_Space_APPS/assets/97624379/f89d1e3f-e96d-47c0-b1b9-5249b9094b0f
-
-
